@@ -40,7 +40,7 @@ const Slider = () => {
 
   return (
     <div id="gallery">
-      <h1 className="text-2xl font-bold text-center p-4">Gallery</h1>
+      <h1 className="text-2xl font-bold text-center p-4">Slider</h1>
       <div className="relative flex justify-center ">
         {slides.map((slide, index) => (
           <div
