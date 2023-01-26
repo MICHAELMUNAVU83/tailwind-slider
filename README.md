@@ -1,3 +1,10 @@
+
+
+
+https://user-images.githubusercontent.com/86654131/214896703-ba827691-5acc-4428-a4ce-4a931bc877a5.mp4
+
+
+
 # Project
 
 THIS IS A TEMPLATE FOR AN IMAGE SLIDER WITH TAILWIND CSS
