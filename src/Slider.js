@@ -58,6 +58,7 @@ const Slider = () => {
                 width="1440"
                 height="600"
                 objectFit="cover"
+                alt="travel "
               />
             )}
 
